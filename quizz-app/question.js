@@ -11,11 +11,6 @@ export const Questions = [
     correct: "parseInt",
   },
   {
-    question: 'Quel est le résultat de "2" + 2 en JavaScript ?',
-    answers: ["4", '"22"', "22", "Erreur"],
-    correct: '"22"',
-  },
-  {
     question: "Comment appelle-t-on une fonction qui s'appelle elle-même ?",
     answers: ["Fonction circulaire", "Fonction récursive", "Fonction miroir"],
     correct: "Fonction récursive",
